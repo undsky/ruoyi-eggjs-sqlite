@@ -1,11 +1,11 @@
-# egg-psyduck-sqlite
+# ruoyi-eggjs-sqlite
 
 > Egg plugin for sqlite
 
 ## 安装
 
 ```bash
-$ npm i egg-psyduck-sqlite --save
+$ npm i ruoyi-eggjs-sqlite --save
 ```
 
 ## 支持的 egg 版本
@@ -20,7 +20,7 @@ $ npm i egg-psyduck-sqlite --save
 // {app_root}/config/plugin.js
 exports.sqlite = {
   enable: true,
-  package: "egg-psyduck-sqlite",
+  package: "ruoyi-eggjs-sqlite",
 };
 ```
 

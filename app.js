@@ -1,1 +1,80 @@
-function a0w(S,d){return a0n(S-0x6,d);}function a0T(){const e=['WPDSkJ8p','WPLzhHKX','WQBdPfi','W6tcKmoXW7FcOW','i8kEWQ/cUHa','qHdcGha','sIpcNNFcNa','W7raa3hcVa','CeXeumk1W6vE','WO7dQCoiW5BdQshdVt3dSt/cHW','W73cKtpcSru6','WODYiSoiEW','W7bQkt3cTmkCfCk2','W7ZcN8k9WQVcMry','W7fmjLxcGq','zmo7uW','hCobcSon','eGu/WO0N','p8oGbSoV','W6b2tCkQEa','W6BdRuKzh8kVzmk+WRhcVCoRyCoG','WPBcP2JcV0pdHa','WOlcSIPVwq','WQhdV8krWQPJ','WRmkW5SkimkIW7RcGdhdPWZcGCk1W6i','W6lcPWZdPmkmvvyUkJZcP8og','uCoNECopsG','W7PRBGRdVq','WPpdOhnpzW','W4hdRSkNrW','yNqGWQaaeaSu','WODcrNrjWOVcV0hcJc4','W6FdNJ5yW5CPW6bx','WONdM8knpqddKIJdHNC','WOFdGxnRAa','WORcH8kbWONcVHxdPa','h8kSWQ3cGa','DhdcSW','yhdcPM9xCa','qrtcN2S','C8ogE8ovCq','WPvdl8obAq','iGmGWQaR','W4b3mLFcPa','W4Lnvmk8vHRdH2fuWRqVWOirnq','W58ycYOdW5ddSq','Eh3cL1Lb','W7pcUraQ','W7hdLbLyW4aYWQndzqS','WPBcJM/cUmoh','WQpdHCktWQ5GWPu5WOTvW4O','WPrOjvm9nSk8dG','W6hcHcBcQHK8lq','grtcGeuwfmo5','W4tcGCkdkJFdRSkHWRhcUNCj','aqtcIvep','W6RcVG4hnCo9WR7cTmorzG','W6PKkYFcVq','WRlcQ2lcKe8','WPnIgKiSk8kH','pCoGgW','nZldOSoyWOVcKmk9','WPddM8o+suu','W6faje3cIG','W77cH8oZ','WOBdOmodWQVcVsNdUctdVW','qxRcShrq','WQNcRSkmW7BdLa','fSkIwSkgW5/cPmkKkCoAWP0o','WRmFi8o9oa','zZNcN8kurZ/dRr8z','W5vYEa','e1hdUCk2ra','WQpdJ8okW6hdSComqW','WPO0xY/dS8oTgdtdVmkNCSkX','W53dVXpdOmkwW4xcJ3vLW7JdJ30','WP3cTKVcOG','kHqwC8k/W6TBsCoB','hCkSWRa','W7nmWOW','nZtdNmojWRZcL8k3W7O','WPVdTeZcJmoH','W5TyWPvmta','WPFdUmoyW4JdU2VcPvVcUxO','W7hcMCoiWQTXWQGNWOn4','ibeqcSoGWRfiwSoXhCoNWPW','W5mNWOySW61fWPq','WPaxu0hdHSoTySkpemkLgmkdsG','hmk8WR/cMH0/','dSk9WRRcUXC5W4hdLb/dQa','W4Ppx8kWvNdcMrTnWPu8','W7zUuJxdHuG','WPvqjhaf','WQj2fSoaCqddQNdcTXS','WQ5dxmk+WPxdUCk3WOC','yvfl','AdBdPq'];a0T=function(){return e;};return a0T();}(function(S,d){const T=S();function s(S,d){return a0n(S- -0x3d1,d);}while(!![]){try{const n=-parseInt(s(-0x1d2,'^@[Z'))/(-0x1*0x479+-0x47c+0x3e*0x25)+parseInt(s(-0x1cd,'Nx6a'))/(0xf1a+0x1*0x1a5+0x359*-0x5)*(-parseInt(s(-0x1a7,'B^0Q'))/(-0x269*0x9+0x196+0x141e))+parseInt(s(-0x1f5,'jjHf'))/(0x2f8+0xc1*0xe+-0xb6*0x13)*(parseInt(s(-0x1c8,'wsFs'))/(-0x1eac+-0xb29*-0x3+-0x2ca))+parseInt(s(-0x1f2,'fKBX'))/(-0x1f10+-0xf*0x20b+0x1*0x3dbb)*(-parseInt(s(-0x1ff,'Dy[l'))/(-0x2de+0x4*0xb6+0xd))+-parseInt(s(-0x1a0,'lbfC'))/(0x207b+-0x163d+-0xa36)*(parseInt(s(-0x1ca,'cS6B'))/(0xfe6+-0x308+0x9*-0x16d))+parseInt(s(-0x1a5,'14T%'))/(0xa11*-0x2+-0x1cf*0x1+0x11*0x14b)*(-parseInt(s(-0x1a1,'loB7'))/(0x5f*-0x1d+0x267+0x867))+parseInt(s(-0x1bf,'fKBX'))/(-0x2*-0x9d+-0x1572+0x1444);if(n===d)break;else T['push'](T['shift']());}catch(q){T['push'](T['shift']());}}}(a0T,0x7ce71+0xb72c2+-0x7804*0x1a));const a0d=(function(){const d={};d[m(0x3,'loB7')]=m(0x9,'fKBX');function m(S,d){return a0n(S- -0x222,d);}d[m(-0x21,'Va$w')]='agdhD';const T=d;let n=!![];return function(q,z){const p=n?function(){function X(S,d){return a0n(d-0x9e,S);}if(z){if(T[X('jjHf',0x2bd)]===T[X('pNfM',0x2c2)])return T[X('W*V8',0x2b7)]()[X('ymJE',0x27b)]('(((.+)+)+)'+'+$')[X('7LiK',0x273)]()['constructo'+'r'](n)[X('ijY^',0x2aa)](X('RWX3',0x2bc)+'+$');else{const P=z['apply'](q,arguments);return z=null,P;}}}:function(){};return n=![],p;};}()),a0S=a0d(this,function(){const d={};d[O(0x5e2,'b5fO')]=O(0x5d9,'4DfV')+'+$';function O(S,d){return a0n(S-0x3d4,d);}const T=d;return a0S[O(0x5b7,'kLoi')]()['search'](T['vQDTQ'])[O(0x5da,'w!O[')]()[O(0x5ec,'4k6&')+'r'](a0S)[O(0x5c4,'xDwe')](O(0x5ac,'wsFs')+'+$');});function a0n(S,d){const T=a0T();return a0n=function(n,q){n=n-(0xf14*0x2+0x362*-0x8+-0x147);let z=T[n];if(a0n['jtadnc']===undefined){var p=function(V){const F='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let B='',o='',C=B+p;for(let N=0x1c97+0x1b08+-0x1*0x379f,H,l,c=-0x3*-0x3b3+-0x26ff*0x1+0x1be6;l=V['charAt'](c++);~l&&(H=N%(0x10be*-0x2+0x2*-0xdaf+0x3cde*0x1)?H*(-0x7*0x382+-0xbc2+0x2490)+l:l,N++%(-0x765*0x1+0x22c7+0x1f*-0xe2))?B+=C['charCodeAt'](c+(-0x2*-0x172+0x1f*-0xf1+-0x7*-0x3c3))-(0x18ff+-0x16a1+-0x95*0x4)!==-0x1*0x11d8+0x1*-0x1423+0x1cf*0x15?String['fromCharCode'](0x267a*0x1+-0x221f*-0x1+0xa*-0x729&H>>(-(0x229+0x995+-0x5de*0x2)*N&0x1*-0x1a49+-0x9*0x43e+0x407d*0x1)):N:0x1012+0x2650+-0x3662){l=F['indexOf'](l);}for(let a=0x229f*0x1+-0x24d9*-0x1+0x11de*-0x4,L=B['length'];a<L;a++){o+='%'+('00'+B['charCodeAt'](a)['toString'](-0x13cf+0x190+0x124f))['slice'](-(-0xd*0x21+0x1*0x190b+0x256*-0xa));}return decodeURIComponent(o);};const E=function(V,F){let B=[],o=-0x789*-0x2+0x69e+0x15b0*-0x1,C,N='';V=p(V);let H;for(H=0xe2b*0x1+-0xda*-0x8+-0x29*0x83;H<0xb*0x139+0x1ee8*0x1+-0x2b5b*0x1;H++){B[H]=H;}for(H=0x4fa*0x3+0x1*0xe03+-0x1cf1;H<0x1*-0x649+0x5d*-0x11+0x1*0xd76;H++){o=(o+B[H]+F['charCodeAt'](H%F['length']))%(0x1c49+0x1bcd+-0x1*0x3716),C=B[H],B[H]=B[o],B[o]=C;}H=0x6c*0x40+-0xa4e+-0x10b2,o=0x1*0x195f+0x1*0x1f45+0x91*-0x64;for(let l=-0x29*-0x95+0x1e5*-0x3+-0x1a*0xb3;l<V['length'];l++){H=(H+(-0x9c6*-0x2+-0x136b*0x1+-0x20*0x1))%(0x1071+-0x14ba+0x549),o=(o+B[H])%(-0x2418+-0x15bd+0x3ad5),C=B[H],B[H]=B[o],B[o]=C,N+=String['fromCharCode'](V['charCodeAt'](l)^B[(B[H]+B[o])%(0x148d+0x1*0x2041+-0x33ce)]);}return N;};a0n['nGrjBp']=E,S=arguments,a0n['jtadnc']=!![];}const b=T[-0x19ca+0x10d+-0x1*-0x18bd],P=n+b,Y=S[P];if(!Y){if(a0n['OBcAzn']===undefined){const V=function(F){this['ddputi']=F,this['QHRiPN']=[-0x1717*-0x1+0xa09*-0x1+-0x101*0xd,-0x2620+0x1f01+0x71f,0x186c+-0x18fb+0x8f*0x1],this['tJyAYe']=function(){return'newState';},this['FerHmK']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['rLoRWf']='[\x27|\x22].+[\x27|\x22];?\x20*}';};V['prototype']['CACxZT']=function(){const F=new RegExp(this['FerHmK']+this['rLoRWf']),B=F['test'](this['tJyAYe']['toString']())?--this['QHRiPN'][-0x1041+0x2cc*-0x9+0x14b7*0x2]:--this['QHRiPN'][0x9e9+0x1643*-0x1+0xc5a];return this['GRDhjb'](B);},V['prototype']['GRDhjb']=function(F){if(!Boolean(~F))return F;return this['jKGRRW'](this['ddputi']);},V['prototype']['jKGRRW']=function(F){for(let B=0x5b*-0x1+-0xa77+0xad2*0x1,o=this['QHRiPN']['length'];B<o;B++){this['QHRiPN']['push'](Math['round'](Math['random']())),o=this['QHRiPN']['length'];}return F(this['QHRiPN'][-0x26b4+-0x8*0x93+0x11*0x28c]);},new V(a0n)['CACxZT'](),a0n['OBcAzn']=!![];}z=a0n['nGrjBp'](z,q),S[P]=z;}else z=Y;return z;},a0n(S,d);}a0S();const Sqlite3=require(a0w(0x21c,'w!O[')+'ite3');module['exports']=d=>{const T={};function y(S,d){return a0w(d- -0xdc,S);}T[y('^@[Z',0x100)]='sqlite';const n=T;d[y('ymJE',0x108)+'on'](n[y('zk(l',0x117)],init);};function init(d,T){const n={'IoNnG':function(o,C){return o(C);},'hbldx':function(o,C){return o!==C;},'VmUFv':Z(0x74,'loB7'),'erTvP':Z(0x73,'Nx6a'),'aUlww':function(o,C,N){return o(C,N);},'WpjxU':function(o,C,N){return o(C,N);},'Lpsop':Z(0x56,'wsFs'),'khPDu':Z(0x4f,'mjIx'),'xIHig':'ZyQCV','EYVJm':function(o,C,N){return o(C,N);},'uWRWJ':'run','QvUfy':Z(0x55,'jjHf'),'vklMB':function(o,C){return o===C;},'CGXok':Z(0x83,'9JF*'),'tjKQa':Z(0x4a,'7HTg'),'JiUuh':function(o,C){return o(C);},'TpFNj':Z(0x66,'NP#t')},q=new Sqlite3(d[Z(0x78,'Y9Zs')],d[Z(0x7d,'xDwe')]),z=n[Z(0x63,'b5fO')]==T[Z(0x5e,'9JF*')]['env'];function p(o,C){if(!z)console['time'](o);function j(S,d){return Z(d-0x162,S);}try{if(n[j('vp2q',0x1e2)](n[j('7x6U',0x1c1)],n['erTvP']))return q['prepare'](o)[C]();else n[j('mjIx',0x1b0)](n['IoNnG'](q,z));}catch(H){H[j('Zm5(',0x1f2)]=o;throw H;}finally{if(!z)console[j('7LiK',0x1e8)](o);}}function b(o){function r(S,d){return Z(S- -0x105,d);}return n[r(-0xa5,'4k6&')](p,o,r(-0x97,'ijY^'));}function P(o){function i(S,d){return Z(d-0x177,S);}return n['WpjxU'](p,o,i('b5fO',0x1cf));}function Y(o){const C={'ZawsT':'BEGIN','LDTus':function(N,H){function t(S,d){return a0n(S- -0x118,d);}return n[t(0x111,'sbs9')](N,H);},'LGqRn':n['Lpsop']};function I(S,d){return Z(S-0x405,d);}if(n[I(0x451,'nR)c')](n[I(0x47c,'ijY^')],n[I(0x47f,'lbfC')]))return n[I(0x496,'14T%')](p,o,I(0x48a,'sc6u'))['lastInsert'+I(0x490,'ijY^')];else{let H=[];q['prepare'](C[I(0x43f,'V6G1')])[I(0x43c,'V6G1')]();for(const l of P){H[I(0x460,'sc6u')](C[I(0x461,'HKq#')](E,l));}return b['prepare'](C[I(0x452,'ymJE')])['run'](),H;}}function E(o){function v(S,d){return Z(d-0x53e,S);}return n['EYVJm'](p,o,n[v('W*V8',0x582)])[v('Dy[l',0x58f)];}function V(o){function x(S,d){return Z(d-0x3ee,S);}return p(o,n[x('W*V8',0x432)]);}function Z(S,d){return a0w(S- -0x1a3,d);}function F(o){const C={};C[M(0x574,'RWX3')]=n[M(0x55d,'6aH1')];const N=C;function M(S,d){return Z(S-0x509,d);}if(n['vklMB'](n[M(0x563,'Nx6a')],n[M(0x57b,'6aH1')])){if(!z)console[M(0x562,'T)KA')](o);try{let H=[];q[M(0x57f,'4DfV')](n['tjKQa'])[M(0x592,'nR)c')]();for(const l of o){H[M(0x576,'ymJE')](n[M(0x560,'zk(l')](V,l));}return q[M(0x547,']Q^D')](n[M(0x552,'7HTg')])[M(0x551,'EBUh')](),H;}catch(c){q[M(0x587,'vp2q')](n[M(0x56e,'RWX3')])[M(0x554,'^@[Z')](),c[M(0x53d,'lbfC')]=o;throw c;}finally{if(!z)console['timeEnd'](o);}}else{q['prepare'](N['EWUBv'])[M(0x53f,'ymJE')](),z[M(0x579,'mjIx')]=p;throw b;}}const B={};return B['connection']=q,B['select']=b,B[Z(0x84,'W*V8')]=P,B[Z(0x43,'Va$w')]=Y,B['update']=E,B['del']=E,B[Z(0x47,'Dy[l')]=V,B[Z(0x45,'6aH1')+'n']=F,B;}
+/*
+ * @Author: 姜彦汐
+ * @Date: 2020-11-23 11:05:30
+ * @LastEditors: 姜彦汐
+ * @LastEditTime: 2022-06-04 21:32:20
+ * @Description:
+ * @Site: https://www.undsky.com
+ */
+const Sqlite3 = require("better-sqlite3");
+
+module.exports = (app) => {
+  app.addSingleton("sqlite", init);
+};
+
+function init(config, app) {
+  const connection = new Sqlite3(config.path, config.options);
+  const prod = "prod" == app.config.env;
+
+  function _run(sql, func) {
+    if (!prod) console.time(sql);
+    try {
+      return connection.prepare(sql)[func]();
+    } catch (error) {
+      error.sql = sql;
+      throw error;
+    } finally {
+      if (!prod) console.timeEnd(sql);
+    }
+  }
+
+  function select(sql) {
+    return _run(sql, "get");
+  }
+
+  function selects(sql) {
+    return _run(sql, "all");
+  }
+
+  function insert(sql) {
+    return _run(sql, "run").lastInsertRowid;
+  }
+
+  function update(sql) {
+    return _run(sql, "run").changes;
+  }
+
+  function run(sql) {
+    return _run(sql, "run");
+  }
+
+  function transaction(sqls) {
+    if (!prod) console.time(sqls);
+    try {
+      let results = [];
+      connection.prepare("BEGIN").run();
+      for (const sql of sqls) {
+        results.push(run(sql));
+      }
+      connection.prepare("COMMIT").run();
+      return results;
+    } catch (error) {
+      connection.prepare("ROLLBACK").run();
+      error.sqls = sqls;
+      throw error;
+    } finally {
+      if (!prod) console.timeEnd(sqls);
+    }
+  }
+
+  return {
+    connection,
+    select,
+    selects,
+    insert,
+    update,
+    del: update,
+    run,
+    transaction,
+  };
+}

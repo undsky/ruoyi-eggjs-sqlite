@@ -1,9 +1,17 @@
 {
-  "name": "egg-psyduck-sqlite",
-  "version": "1.0.1",
+  "name": "ruoyi-eggjs-sqlite",
+  "version": "1.1.0",
   "description": "Egg plugin for sqlite",
   "author": "姜彦汐 <https://www.undsky.com>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/undsky/ruoyi-eggjs-sqlite.git"
+  },
+  "bugs": {
+    "url": "https://github.com/undsky/ruoyi-eggjs-sqlite/issues"
+  },
+  "homepage": "https://github.com/undsky/ruoyi-eggjs-sqlite#readme",
   "eggPlugin": {
     "name": "sqlite"
   },
