@@ -8,6 +8,7 @@
 
 - ✅ 支持单实例和多实例配置
 - ✅ 提供简洁的 API 封装（select、insert、update、delete）
+- ✅ **可选的驼峰命名转换**：支持将数据库字段从 snake_case 自动转换为 camelCase（v1.1.6+）
 - ✅ 内置事务支持，自动回滚
 - ✅ 开发环境自动打印 SQL 执行时间
 - ✅ 错误信息包含执行的 SQL 语句
@@ -82,6 +83,53 @@ config.sqlite = {
   },
 };
 ```
+
+### 驼峰命名配置（camelCase）
+
+从 **v1.1.6** 开始，支持通过 `camelCase` 配置项控制是否自动转换字段名：
+
+```js
+// {app_root}/config/config.default.js
+config.sqlite = {
+  // 开启驼峰命名转换
+  camelCase: true,  // 将 user_name 转换为 userName
+  client: {
+    path: path.join(appInfo.baseDir, 'database.db'),
+    options: null,
+  },
+};
+```
+
+**配置参数说明**：
+
+| 参数 | 类型 | 默认值 | 说明 |
+| --- | --- | --- | --- |
+| path | String | - | 数据库文件路径，`:memory:` 表示内存数据库 |
+| options | Object | null | better-sqlite3 配置选项 |
+| **camelCase** | **Boolean** | **false** | **是否自动将字段名转换为驼峰命名（v1.1.6+）** |
+
+**启用后的效果**：
+
+```js
+// camelCase: false (默认)
+const user = await app.sqlite.select('SELECT user_id, user_name FROM users WHERE id = 1');
+console.log(user);
+// 返回: { user_id: 1, user_name: '张三' }
+
+// camelCase: true (启用驼峰转换)
+const user = await app.sqlite.select('SELECT user_id, user_name FROM users WHERE id = 1');
+console.log(user);
+// 返回: { userId: 1, userName: '张三' }
+```
+
+**转换规则**：
+
+- `user_id` → `userId`
+- `user_name` → `userName`
+- `created_at` → `createdAt`
+- `is_active` → `isActive`
+
+> **注意**：默认情况下 `camelCase: false`，字段名保持原样，以确保向后兼容。
 
 ## 使用方法
 
