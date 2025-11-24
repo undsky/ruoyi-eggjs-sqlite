@@ -74,7 +74,8 @@ function init(config, app) {
   }
 
   function select(sql) {
-    const result = _run(sql, "get");
+    const results = _run(sql, "all");
+    const result = results ? (results.length == 1 ? results[0] : results) : null;
     // 根据配置决定是否转换为驼峰命名
     return result ? (camelCase ? convertKeysToCamelCase(result) : result) : null;
   }
